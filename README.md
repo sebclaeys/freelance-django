@@ -11,6 +11,7 @@ France
 * Laurent Paoletti - Toulon - [providenz](http://providenz.fr) - lp at providenz dot fr
 * Mathieu Richardoz - Paris - [babik](http://www.babik.fr) - contact at babik dot fr
 * Jean-Sébastien Sevestre - Mâcon - [site](http://www.jssevestre.net) - contact at jssevestre dot net
+* Sebastien Claeys - Paris/New York - [Trampolinn](https://trampolinn.com) - contact at trampolinn dot com
 
 Belgique
 --------
